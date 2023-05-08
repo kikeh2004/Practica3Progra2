@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/enriq/Desktop/Práctica3Progra2/practica3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/enriq/Desktop/Práctica3Progra2/practica3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practica3 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/enriq/Desktop/Práctica3Progra2/practica3/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practica3 1.0-SNAPSHOT API'
+practica3
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\src\main\java = 1683271702406
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\allclasses-index.html = 1683540111050
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\allpackages-index.html = 1683540111050
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\element-list = 1683540110978
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\help-doc.html = 1683540111098
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\index-all.html = 1683540111074
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\index.html = 1683540111090
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\jquery-ui.overrides.css = 1683540111139
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\member-search-index.js = 1683540111058
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\module-search-index.js = 1683540111050
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\overview-tree.html = 1683540111026
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\package-search-index.js = 1683540111058
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\script.js = 1683540111106
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\search.js = 1683540111106
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\stylesheet.css = 1683540111106
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\tag-search-index.js = 1683540111058
+C:\Users\enriq\Desktop\Práctica3Progra2\practica3\target\site\apidocs\type-search-index.js = 1683540111058
