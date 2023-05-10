@@ -2,10 +2,7 @@ package practica3;
 
 import java.util.*;
 
-/**
- * Hello world!
- *
- */
+    
 public class Graph<V> {
     // Lista de adyacencia.
     private Map<V, Set<V>> adjacencyList = new HashMap<>();
