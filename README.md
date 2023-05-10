@@ -4,19 +4,19 @@ Este repositorio contiene el código necesario para implementar un grafo dirigid
 
 ## ***Contenido del repositorio***
 Este repositorio tiene varios archivos:
-    -Graph.java: clase donde se desarrollan los métodos del grafo
-    -GraphTest.java: clase donde se realizan los tests necesarios para la comprobación de los metodos del proyecto.
-    -README.md: archivo en el que se desarrolla detalladamente el proyecto
-    -DiagramUML.png: imagen que contiene el diagrama UML del proyecto de Java
+    - **Graph.java**: clase donde se desarrollan los métodos del grafo
+    - **GraphTest.java**: clase donde se realizan los tests necesarios para la comprobación de los metodos del proyecto.
+    - **README.md**: archivo en el que se desarrolla detalladamente el proyecto
+    - **DiagramUML.png**: imagen que contiene el diagrama UML del proyecto de Java
 
 ## ***EXPLICACIÓN DE LOS MÉTODOS***
 
 La clase Graph tiene multiples métodos:
-    -addVertex(V v): crea un vertice de nombre v y lo añade al grafo
-    -addEdge(V v1, V v2): añade una arista cuando existen 2 vértices v1 y v2
-    -obtainAdjacents(V v): obtiene el conjunto de adyacentes a v
-    -containsVertex(V v): devuelve un output booleano verdadero si el grafo contiene al vértice
-    -onePath(V v1, V v2): encuentra el camino entre los vértices v1 y v2 en base al algoritmo de busqueda en anchura
+    - **addVertex(V v)**: crea un vertice de nombre v y lo añade al grafo
+    - **addEdge(V v1, V v2)**: añade una arista cuando existen 2 vértices v1 y v2
+    - **obtainAdjacents(V v)**: obtiene el conjunto de adyacentes a v
+    - **containsVertex(V v)**: devuelve un output booleano verdadero si el grafo contiene al vértice
+    - **onePath(V v1, V v2)**: encuentra el camino entre los vértices v1 y v2 en base al algoritmo de busqueda en anchura
 
 
 
